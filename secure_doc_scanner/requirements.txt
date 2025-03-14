@@ -1,0 +1,22 @@
+# FastAPI and ASGI Server
+fastapi
+uvicorn
+
+# OCR (Optical Character Recognition)
+pytesseract
+pillow
+pdf2image
+
+# Summarization (Transformers)
+transformers
+torch
+
+# Encryption
+cryptography
+
+# Authentication (Password Hashing & JWT)
+passlib
+python-jose
+
+# Environment Variables
+python-dotenv
